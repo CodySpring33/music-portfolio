@@ -1,8 +1,8 @@
 <template>
   <div class="home-page">
     <div class="hero">
-      <h1>John Smith</h1>
-      <p class="subtitle">Composer • Pianist • Educator</p>
+      <h1>Jack Conklin</h1>
+      <p class="subtitle">Composer • Conductor • Educator</p>
     </div>
     
     <div class="featured-works">

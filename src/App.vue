@@ -1,7 +1,7 @@
 <template>
   <div class="app">
     <nav class="navbar">
-      <div class="logo">Your Name</div>
+      <div class="logo">Jack Conklin</div>
       <div class="nav-links">
         <router-link to="/" class="nav-link">Home</router-link>
         <router-link to="/about" class="nav-link">About</router-link>

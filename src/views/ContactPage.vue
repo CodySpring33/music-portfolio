@@ -4,35 +4,32 @@
       <div class="contact-content">
         <div class="contact-info">
           <h2>Get in Touch</h2>
-          <p>For performance inquiries, collaborations, or score purchases:</p>
-          <a href="mailto:john.smith@example.com" class="email-link">
-            <i class="fas fa-envelope"></i> john.smith@example.com
+          <p>For commissions, performances, or score inquiries:</p>
+          <a href="mailto:jack.conklin@example.com" class="email-link">
+            <i class="fas fa-envelope"></i> jack.conklin@example.com
           </a>
         </div>
 
         <div class="social-links">
           <h2>Connect with me</h2>
           <div class="social-grid">
-            <a href="https://instagram.com/username" target="_blank" class="social-link">
+            <a href="https://instagram.com/jackconklinmusic" target="_blank" class="social-link">
               <i class="fab fa-instagram"></i> Instagram
             </a>
-            <a href="https://youtube.com/username" target="_blank" class="social-link">
+            <a href="https://youtube.com/jackconklin" target="_blank" class="social-link">
               <i class="fab fa-youtube"></i> YouTube
             </a>
-            <a href="https://spotify.com/artist/username" target="_blank" class="social-link">
-              <i class="fab fa-spotify"></i> Spotify
-            </a>
-            <a href="https://soundcloud.com/username" target="_blank" class="social-link">
+            <a href="https://soundcloud.com/jackconklin" target="_blank" class="social-link">
               <i class="fab fa-soundcloud"></i> SoundCloud
             </a>
           </div>
         </div>
 
         <div class="representation">
-          <h2>Professional Representation</h2>
+          <h2>Professional Affiliations</h2>
           <div class="rep-info">
-            <p><strong>Management:</strong> Classical Artists Management</p>
-            <p><strong>Publishing:</strong> Universal Edition</p>
+            <p><strong>Member:</strong> American Composers Forum</p>
+            <p><strong>Member:</strong> College Band Directors National Association</p>
           </div>
         </div>
       </div>

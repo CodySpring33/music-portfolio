@@ -1,18 +1,18 @@
 <template>
   <div class="about-page">
     <div class="profile-section">
-      <img src="https://picsum.photos/300/300" alt="John Smith" class="profile-image">
+      <img src="https://picsum.photos/300/300" alt="Jack Conklin" class="profile-image">
       <div class="bio">
         <h1>About Me</h1>
-        <p>John Smith is an award-winning composer and pianist based in New York City. His works have been performed by major orchestras worldwide, including the London Symphony Orchestra, Berlin Philharmonic, and New York Philharmonic.</p>
-        <p>A graduate of Juilliard School, John's compositions blend traditional classical forms with contemporary innovations, creating a unique voice in modern classical music.</p>
+        <p>Jack Conklin is a dynamic composer and conductor based in the United States. His compositions have been performed by ensembles across the country, showcasing his unique approach to contemporary classical music.</p>
+        <p>A graduate of prestigious music institutions, Jack's work combines traditional orchestral elements with innovative compositional techniques, creating compelling musical narratives that resonate with modern audiences.</p>
         
         <div class="achievements">
           <h2>Awards & Recognition</h2>
           <ul>
-            <li>2023 Pulitzer Prize Finalist</li>
-            <li>2022 Grammy Nomination - Best Contemporary Classical Composition</li>
-            <li>2021 Royal Philharmonic Society Award</li>
+            <li>2023 American Composers Forum Grant Recipient</li>
+            <li>2022 National Band Association Composition Award</li>
+            <li>2021 American Prize in Composition Finalist</li>
           </ul>
         </div>
       </div>
