@@ -4,22 +4,6 @@
       <h1>Jack Conklin</h1>
       <p class="subtitle">Composer • Conductor • Educator</p>
     </div>
-    
-    <div class="featured-works">
-      <h2>Featured Works</h2>
-      <div class="works-grid">
-        <div class="work-card">
-          <img src="https://picsum.photos/400/300" alt="Symphony No. 1">
-          <h3>Symphony No. 1</h3>
-          <p>Premiered by London Symphony Orchestra, 2023</p>
-        </div>
-        <div class="work-card">
-          <img src="https://picsum.photos/400/301" alt="Piano Concerto">
-          <h3>Piano Concerto in D minor</h3>
-          <p>Winner of the 2022 Composition Award</p>
-        </div>
-      </div>
-    </div>
 
     <div class="upcoming-events">
       <h2>Upcoming Performances</h2>

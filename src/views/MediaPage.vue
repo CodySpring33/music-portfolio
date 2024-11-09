@@ -17,20 +17,6 @@
         </div>
       </div>
 
-      <div class="audio-section">
-        <h2>Audio Samples</h2>
-        <div class="audio-tracks">
-          <div class="audio-track">
-            <h3>Symphony No. 1 - Movement I</h3>
-            <audio controls>
-              <source src="path-to-audio.mp3" type="audio/mpeg">
-              Your browser does not support the audio element.
-            </audio>
-          </div>
-          <!-- Add more audio tracks as needed -->
-        </div>
-      </div>
-
       <div class="gallery-section">
         <h2>Photo Gallery</h2>
         <div class="photo-grid">

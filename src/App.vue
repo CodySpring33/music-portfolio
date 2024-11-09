@@ -42,11 +42,12 @@ body {
 
 .navbar {
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
   align-items: center;
   padding: 1rem 2rem;
   background-color: var(--background-color);
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  gap: 1rem;
 }
 
 .logo {
@@ -58,6 +59,7 @@ body {
 .nav-links {
   display: flex;
   gap: 2rem;
+  justify-content: center;
 }
 
 .nav-link {
